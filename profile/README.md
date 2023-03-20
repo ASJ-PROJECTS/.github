@@ -13,11 +13,8 @@ Hi Guys! We are ASJ Projects! We are Full-Stack Developers who loves Web develop
 
 ### Our Github Stats 📊
 
-
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ASJ-PROJECTS&include_orgs=true&show_icons=true&theme=tokyonight&locale=en)
 ![ASJ Projects' Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ASJ-PROJECTS?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ASJ-PROJECTS&label=Profile%20Views&color=orange&style=flat-square" alt="ASJ Projects" /> </p>
-
 
 ### Our Team Members
 
