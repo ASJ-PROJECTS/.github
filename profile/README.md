@@ -8,4 +8,4 @@ Hi Guys! We are ASJ Projects! We are Full-Stack Developers who loves Web develop
 
 📖 We are Computer Enginerring students.
 🔬 Our Dream is to became Computer Engineer.
-📞 You all can contact us on: <a href="jaypatelxd1314@gmail.com"><img src="https://img.shields.io/badge/Gmail.svg?style=for-the-badge&logo=gmail"></a>
+📞 You all can contact us on: <a href="jaypatelxd1314@gmail.com"><img src="https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail"></a>
