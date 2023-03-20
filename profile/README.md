@@ -14,7 +14,7 @@ Hi Guys! We are ASJ Projects! We are Full-Stack Developers who loves Web develop
 ### Our Github Stats 📊
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ-PROJECTS&layout=compact&theme=radical)](https://github.com/JayPatel1314)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ-PROJECTS&layout=compact&theme=radical)](https://github.com/ASJ-PROJECTS)
 ![AST Projects"s Github stats](https://github-readme-stats.vercel.app/api?username=ASJ-PROJECTS&show_icons=true&theme=tokyonight)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ASJ-PROJECTS&label=Profile%20Views&color=orange&style=flat-square" alt="ASJ Projects" /> </p>
 
